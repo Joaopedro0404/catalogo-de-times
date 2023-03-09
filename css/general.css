@@ -1,0 +1,74 @@
+ td{
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+
+.square-club{
+    height: 100%;
+    width: 100%;
+    background-color: #555;
+}
+
+.background-color-corinthians{
+    background-color: black;
+}
+
+.background-color-palmeiras{
+    background-color: #136338;
+}
+
+.background-color-psg{
+    background-color:#1c5fa4
+}
+
+.background-color-real-madrid{
+    background-color:#fabc02
+}
+
+.img-square{
+    height: 150px;
+    width: 150px;
+}
+
+.h2-square{
+    color: white;
+}
+
+.h3-square{
+    color: white;
+}
+
+.more-info{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+.background-color-man-city{
+    background-color: #007fff
+}
+
+.background-color-man-utd{
+    background-color: red;
+}
+
+.h1-pages{
+    text-align: center;
+}
+
+.img-logo{
+    height: 150px;
+    width: 150px;
+   
+}
+
+.div-img-logo{
+    text-align: center;
+    
+}
+
